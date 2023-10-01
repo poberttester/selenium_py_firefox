@@ -1,4 +1,9 @@
-address1: https://test-stend.gb.ru
-address: https://www.google.com/?hl=RU
+address: https://test-stand.gb.ru/login
+address1: https://www.google.com/?hl=RU
 driver_path: geckodriver.exe
 sleep_time: 8
+name: 'Автомат'
+description: 'Бомба'
+сontent: "содержательный"
+user: 'koska'
+password: '9aa9540124'
